@@ -1,3 +1,4 @@
 {
-    "mongoURI" : "mongodb+srv://nandan15:nandan15@cluster0-0gsxf.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI" : "mongodb+srv://nandan15:nandan15@cluster0-0gsxf.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtsecret" : "mysecrettoken"
 }
